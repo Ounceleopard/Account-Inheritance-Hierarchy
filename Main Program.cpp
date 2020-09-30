@@ -7,13 +7,13 @@
 	
 	CSCI-373 (FALL 2020) (Prof. Abdu) (Assignment 2) (John Jay College) 
 	-----------------------------------------------------------------------------------
-	o Account 	  						 -Line 00- -Account.h/.cpp-
-	o Saving account 					 -Line 00- -Saving Account.h/.cpp-
+	o Account 	  				 -Line 00- -Account.h/.cpp-
+	o Saving account 				 -Line 00- -Saving Account.h/.cpp-
 	o Checking account  			  	 -Line 00- -Checking Account.h/.cpp-
 	
-	• 3 header files 	  (one for each class – one base class and 2 derived classes).
-	• 3 source code files (one for each class implementation).
-	• 1 source code file that contains main() to test your classes. 
+	â€¢ 3 header files 	  (one for each class â€“ one base class and 2 derived classes).
+	â€¢ 3 source code files (one for each class implementation).
+	â€¢ 1 source code file that contains main() to test your classes. 
 */
 #include <iostream>
 #include <iomanip>
